@@ -1,2 +1,2 @@
-# backup-jira
-Script for backup of Jira Software Cloud
+# Python script for Backup Jira Software Cloud
+
